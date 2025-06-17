@@ -66,10 +66,10 @@
             //                                     ┗━━━━━━━━━━━┻━━━━━━━━━━━┻━━━━━━━━━━━┛   ┗━━━━━━━━━━━┻━━━━━━━━━━━┻━━━━━━━━━━━┛
 
             bindings = <
-          &kp Q           &kp W            &kp F               &kp P             &kp B        &kp J    &kp L             &kp U        &kp Y              &kp SEMI
-          &mt LEFT_GUI A  &mt LEFT_ALT R   &mt LEFT_CONTROL S  &mt LEFT_SHIFT T  &kp G        &kp M    &mt LEFT_SHIFT N  &mt LCTRL E  &mt LEFT_ALT I     &mt LEFT_GUI O
-&kp BSLH  &kp Z           &mt RIGHT_ALT X  &kp C               &kp D             &kp V        &kp K    &kp H             &kp COMMA    &mt RIGHT_ALT DOT  &kp FSLH        &kp SQT
-                                           &kp ESC             &lt 2 TAB         &kp SPACE    &kp RET  &lt 3 BACKSPACE   &kp DELETE
+          &kp Q           &kp W            &kp F               &kp P             &kp B      &kp J    &kp L             &kp U        &kp Y              &kp SEMI
+          &mt LEFT_GUI A  &mt LEFT_ALT R   &mt LEFT_CONTROL S  &mt LEFT_SHIFT T  &kp G      &kp M    &mt LEFT_SHIFT N  &mt LCTRL E  &mt LEFT_ALT I     &mt LEFT_GUI O
+&kp BSLH  &kp Z           &mt RIGHT_ALT X  &kp C               &kp D             &kp V      &kp K    &kp H             &kp COMMA    &mt RIGHT_ALT DOT  &kp FSLH        &kp SQT
+                                           &kp ESC             &lt 2 SPACE       &kp TAB    &kp RET  &lt 3 BACKSPACE   &kp DELETE
             >;
         };
 
