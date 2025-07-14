@@ -132,10 +132,10 @@
             //                                     ┗━━━━━━━━━━━┻━━━━━━━━━━━┻━━━━━━━━━━━┛   ┗━━━━━━━━━━━┻━━━━━━━━━━━┻━━━━━━━━━━━┛
 
             bindings = <
-        &kp EXCL  &kp AT  &kp HASH   &kp DOLLAR        &kp PERCENT          &kp CARET  &kp AMPERSAND  &kp ASTRK  &kp MINUS  &kp EQUAL
-        &kp N1    &kp N2  &kp N3     &kp N4            &kp N5               &kp N6     &kp N7         &kp N8     &kp N9     &kp N0
-&kp F1  &kp F2    &kp F3  &kp F4     &kp F5            &kp F6               &kp F7     &kp F8         &kp F9     &kp F10    &kp F11    &kp F12
-                          &kp GRAVE  &kp LEFT_BRACKET  &kp RIGHT_BRACKET    &trans     &trans         &trans
+        &kp EXCL               &kp AT                 &kp HASH            &kp DOLLAR               &kp PERCENT          &kp CARET  &kp AMPERSAND            &kp ASTRK           &kp MINUS              &kp EQUAL
+        &mt LEFT_GUI NUMBER_1  &mt LEFT_ALT NUMBER_2  &mt LCTRL NUMBER_3  &mt LEFT_SHIFT NUMBER_4  &kp N5               &kp N6     &mt LEFT_SHIFT NUMBER_7  &mt LCTRL NUMBER_8  &mt LEFT_ALT NUMBER_9  &mt LEFT_GUI NUMBER_0
+&kp F1  &kp F2                 &kp F3                 &kp F4              &kp F5                   &kp F6               &kp F7     &kp F8                   &kp F9              &kp F10                &kp F11                &kp F12
+                                                      &kp GRAVE           &kp LEFT_BRACKET         &kp RIGHT_BRACKET    &trans     &trans                   &trans
             >;
         };
 
