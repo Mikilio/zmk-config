@@ -109,8 +109,8 @@
 
             bindings = <
             &kp LC(Y)     &kp LC(W)     &kp LC(F)  &kp LS(LC(T))   &kp PRINTSCREEN    &kp HOME          &kp PG_UP     &kp UP      &kp PG_DN     &kp END
-            &kp LEFT_GUI  &kp LEFT_ALT  &kp LCTRL  &kp LEFT_SHIFT  &kp TAB            &kp C_REWIND      &kp LEFT      &kp DOWN    &kp RIGHT     &kp C_FAST_FORWARD
-&kp ESCAPE  &kp LC(Z)     &kp LC(X)     &kp LC(C)  &kp LC(V)       &kp DEL            &kp C_PLAY_PAUSE  &kp C_VOL_DN  &kp K_MUTE  &kp C_VOL_UP  &kp C_STOP          &tog 2
+            &kp LEFT_GUI  &kp LEFT_ALT  &kp LCTRL  &kp LEFT_SHIFT  &kp TAB            &kp C_PREV        &kp LEFT      &kp DOWN    &kp RIGHT     &kp C_NEXT
+&kp ESCAPE  &kp LC(Z)     &kp LC(X)     &kp LC(C)  &kp LC(V)       &kp DEL            &kp C_PLAY_PAUSE  &kp C_VOL_DN  &kp K_MUTE  &kp C_VOL_UP  &kp C_STOP  &tog 2
                                         &trans     &trans          &trans             &trans            &trans        &trans
             >;
         };
