@@ -51,6 +51,11 @@
             bindings = <&bt BT_NXT>;
             key-positions = <35 36 37>;
         };
+
+        qwerty {
+            bindings = <&tog 1>;
+            key-positions = <3 2 1 6 7 8>;
+        };
     };
 
     keymap {
